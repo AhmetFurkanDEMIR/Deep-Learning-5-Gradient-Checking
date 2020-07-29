@@ -1,1 +1,1 @@
-# deneme
+# Gradient Checking
